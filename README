@@ -1,1 +1,13 @@
+OA is one of the most frequent medical conditions in humans. 
+According to estimates, up to half of the persons with osteoarthritic joint abnormalities seen by imaging or clinical examination are asymptomatic or have minor symptoms. 
+OA is known to cause severe impairment in some sites, including the joint of the thumb, the hip and the knee joints. 
+
+Data Set Details
+The database used in this study were acquired from the Imorphics dataset which is a subset of the  public Osteoarthritis Initiative (OAI) database. 
+OAI that sponsored by the National Institutes of  Health was initiated to maintain a natural history database for osteoarthritis that contains clinical evaluation data, radiographic (X-ray and MRI) images, and other information.
+It includes a multi-center that recruited 4796 men and women (ages 45–79 years) with or at risk for knee OA. 
+The OAI’s overarching goal was to provide public resources to promote a better understanding of OA initiation and progression, which is one of the leading causes of disability in adults. 
+Our database contains 99 cases of 3D knee MRI dual-echo steady-state (DESS) sequences that  turn up to be 15,840 total DICOM images. 
+Each case consists of 160 2D slices with the original image size of 384 × 384 pixels. Each slice with bone structures was manually segmented and served as the ground truth in this study
+
 
